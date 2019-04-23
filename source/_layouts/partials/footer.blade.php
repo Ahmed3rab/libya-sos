@@ -5,6 +5,10 @@
     </div>
 
     <p class="text-muted text-center pt-3 pb-2">
+<<<<<<< HEAD
         هذه المبادرة تطوعية مفتوحة المصدر ( <a href="http://github.com/sl0wZEr/libya-sos">رابط الـ GitHub</a> ) يمكنك المساهمة في تحسينه إن شئت.
+=======
+        هذا المشروع تطوعي مفتوح المصدر ( <a href="http://github.com/sl0wZEr/libya-sos">رابط الـ GitHub</a> ) يمكنك المساهمة في تحسينه إن شئت | <a href="mailto:info@ahmad.ly">تواصل معنا</a>
+>>>>>>> 7b2beefa61220cbe77a81b986445d6a65b1860a6
     </p>
 </footer>
