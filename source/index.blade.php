@@ -1,10 +1,10 @@
 @extends('_layouts.master')
 
 @section('body')
-    @foreach($page->contacts as $contactTitle => $contact)
+    @foreach($page->emergencyContacts as $contactTitle => $contact)
         <div class="my-3 p-3 bg-white rounded shadow-sm">
             <div class="section-head border-bottom border-gray pt-2 pb-3 mb-0 d-flex align-items-center">
-                <i class="{{ $contact->icon }} ml-1 mr-2"></i>
+                <i class="{{ $contact->icon }} ml-1 mr-2 text-primary-red"></i>
                 <h6 class="font-weight-bold m-0 pt-2">{{ $contactTitle }}</h6>
             </div>
             <div class="section-body">
